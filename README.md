@@ -50,5 +50,3 @@ File name: start.bat
 Save as type: All File (*.*)
 ```
 Jika sudah, kalian bisa membuka file tersebut dengan cara klik saja
-
-### Tutorial via Youtube
