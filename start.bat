@@ -7,8 +7,8 @@ reg add "HKEY_CURRENT_USER\Console" /v FaceName /t REG_SZ /d "Consolas" /f >nul 
 reg add "HKEY_CURRENT_USER\Console" /v FontSize /t REG_DWORD /d 0x00100000 /f >nul 2>&1
 
 :: ----------------- Set Username & Email ----------------- 
-:: set /a username_github=username_github
-:: set /a email_github=email@domain.extension
+:: set username_github=username_github
+:: set email_github=email@domain.extension
 
 :: ----------------- Header Script Batch File Automation ----------------- 
 color 0F
