@@ -83,9 +83,9 @@ echo.
 
 git fetch origin >nul 2>&1
 git merge origin/%branch% >nul 2>&1
-git pull origin %branch% --allow-unrelated-histories >nul 2>&1
 git add . >nul 2>&1 
 git commit -m "%message%" >nul 2>&1
+git pull origin %branch% --allow-unrelated-histories >nul 2>&1
 git push origin %branch% >nul 2>&1
 goto selesai
 
