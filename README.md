@@ -3,6 +3,8 @@
 ## Automation File Upload
 Project ini diharapkan dapat membantu kalian untuk upload file ke GitHub lebih cepat.
 
+//https://youtu.be/KjwMAIyHoQI
+
 ## Syarat Menjalankan Script
 Tentu saja ada persyaratan, yaitu
 ```
