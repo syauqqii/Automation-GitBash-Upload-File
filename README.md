@@ -1,4 +1,5 @@
-# ERROR: UNDER MAINTENANCE (tunggu next update yaa)
+# NOTE
+ERROR: UNDER MAINTENANCE (tunggu next update yaa)
 
 ## Automation File Upload
 Project ini diharapkan dapat membantu kalian untuk upload file ke GitHub lebih cepat.
