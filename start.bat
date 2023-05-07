@@ -92,6 +92,7 @@ goto selesai
 :lanjut
 :: Pengecekan koneksi internet
 set /a nReconnect=0
+
 :connect_github
 ping google.com -n 1 > nul
 if errorlevel 1 (
